@@ -1,0 +1,41 @@
+[
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "Motorsport-Total.com",
+        "title": "Fotostrecken - Motorsport-Total.com",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lm1vdG9yc3BvcnQtdG90YWwuY29tL2F1dG8vZm90b3MtdmlkZW9zL2ZvdG9zdHJlY2tlbi9maWF0LTUwMC10cmlidXRvLXRyZXBpdW5vLzExMDEz0gEA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-03-07T10:29:55Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "NDR.de",
+        "title": "Warnstreik: Heute keine Abflüge am Hamburger Airport - NDR.de",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3Lm5kci5kZS9uYWNocmljaHRlbi9oYW1idXJnL1dhcm5zdHJlaWstSGV1dGUta2VpbmUtQWJmbHVlZ2UtYW0tSGFtYnVyZ2VyLUFpcnBvcnQsZmx1Z2hhZmVuMzA0OC5odG1s0gEA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-03-07T09:34:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "WELT",
+        "title": "Autofrachter: „Felicity Ace“-Eigner verklagt Porsche auf Millionensumme - WELT",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LndlbHQuZGUvd2lydHNjaGFmdC9hcnRpY2xlMjUwNDQxNjUwL0F1dG9mcmFjaHRlci1GZWxpY2l0eS1BY2UtRWlnbmVyLXZlcmtsYWd0LVBvcnNjaGUtYXVmLU1pbGxpb25lbnN1bW1lLmh0bWzSAQA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-03-07T09:07:56Z",
+        "content": null
+    }
+]
